@@ -1,0 +1,33 @@
+#,Reference,Qty,Value,Footprint,DNP,JLCPCB Part #
+1,AE1,1,Antenna,TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm,,
+2,"C1, C5, C7, C11",4,1u,Capacitor_SMD:C_0603_1608Metric,,
+3,"C2, C3",2,15p,Capacitor_SMD:C_0603_1608Metric,,
+4,"C4, C6, C8, C9, C10, C12",6,100n,Capacitor_SMD:C_0603_1608Metric,,
+5,"C13, C21",2,3.9p,Capacitor_SMD:C_0402_1005Metric,,
+6,"C14, C17",2,220p,Capacitor_SMD:C_0402_1005Metric,,
+7,C15,1,8.2p,Capacitor_SMD:C_0402_1005Metric,,
+8,C16,1,5.6p,Capacitor_SMD:C_0402_1005Metric,,
+9,C18,1,100n,Capacitor_SMD:C_0402_1005Metric,,
+10,"C19, C20",2,27p,Capacitor_SMD:C_0402_1005Metric,,
+11,"D1, D2, D3",3,LED,LED_SMD:LED_0603_1608Metric,,C19189746
+13,J2,1,USB_B_Micro,Connector_USB:USB_Micro-B_Amphenol_10118193-0001LF_Horizontal,,C132562
+15,J4,1,Micro_SD_Card_Det_Hirose_DM3AT,Connector_Card:microSD_HC_Hirose_DM3AT-SF-PEJM5,,C114218
+16,J5,1,Conn_01x04_Pin,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal,,
+17,"L1, L2",2,27nH,Inductor_SMD:L_0402_1005Metric,,
+18,L3,1,22n,Inductor_SMD:L_0402_1005Metric,,
+19,L4,1,27n,Inductor_SMD:L_0402_1005Metric,,
+20,"R1, R6",2,1k,Resistor_SMD:R_0603_1608Metric,,
+21,"R2, R5",2,10k,Resistor_SMD:R_0603_1608Metric,,
+22,"R3, R4",2,27,Resistor_SMD:R_0603_1608Metric,,
+23,"R7, R8, R9, R10, R11, R12, R13, R14, R15, R20, R22, R27, R28, R29",14,4k7,Resistor_SMD:R_0603_1608Metric,,
+24,"R16, R19, R23, R24, R25, R26",6,0,Resistor_SMD:R_0603_1608Metric,,
+26,R21,1,56k,Resistor_SMD:R_0402_1005Metric,,
+27,"SW1, SW7",2,SW_Push,Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK,,C115357
+28,"SW2, SW3, SW4, SW5, SW6",5,SW_Push,Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm,,C455109
+30,U1,1,W25Q32JVZP,Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm,,C2940197
+31,U2,1,RP2040,Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,,C2040
+32,U3,1,AMS1117-3.3,Package_TO_SOT_SMD:SOT-223-3_TabPin2,,
+33,U4,1,ESP-12F,RF_Module:ESP-12E,,C784365
+35,U6,1,CC1101,Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias,,C29953
+36,Y1,1,12MHz,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,,C524716
+37,Y2,1,27MHz,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,,C254353

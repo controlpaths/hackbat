@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "oled")(type "KiCad")(uri "/mnt/pablo_nas/51_controlpaths_devices/30_hackbat/lib/oled.pretty")(options "")(descr ""))
+)

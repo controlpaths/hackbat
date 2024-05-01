@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DM-OLED096-636")(type "KiCad")(uri "/mnt/pablo_nas/51_controlpaths_devices/30_hackbat/lib/DM-OLED096-636.kicad_sym")(options "")(descr ""))
+)
