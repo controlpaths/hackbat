@@ -29,7 +29,7 @@ The OLED display used in the HackBat is a 128x64 pixels, with the driver SH110X.
 
 ## RF
 
-The Hackbat features a [CC1101](https://www.ti.com/product/CC1101) from Texas instruments. CC1101 is a low-cost sub-1 GHz transceiver designed for very low-power wireless applications. The circuit is mainly intended for the ISM (Industrial, cientific and Medical) and SRD (Short Range Device) frequency bands at 315, 433, 868, and 915 MHz, but can easily be programmed for operation at other frequencies in the 300-348 MHz, 387-464 MHz and 779-928 MHz bands
+The Hackbat features a [CC1101](https://www.ti.com/product/CC1101) from Texas instruments. CC1101 is a low-cost sub-1 GHz transceiver designed for very low-power wireless applications. The circuit is mainly intended for the ISM (Industrial, scientific and Medical) and SRD (Short Range Device) frequency bands at 315, 433, 868, and 915 MHz, but can easily be programmed for operation at other frequencies in the 300-348 MHz, 387-464 MHz and 779-928 MHz bands
 
 ## WIFI
 
